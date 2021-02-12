@@ -1,0 +1,558 @@
+.header {
+    height: 287px;
+}
+
+.main-title {
+    color: #222222;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.title {
+    color: #405169;
+}
+
+.icon {
+    display: block;
+    text-align: center;
+    font-size: 28px;
+    color: #7F8A95;
+    margin-right: 20px;
+}
+
+.link {
+    text-align: center;
+    color: #7F8A95;
+    margin-right: 20px;
+    font-size: 17px;
+}
+
+.period {
+    color: #405169;
+    font-size: 18px;
+}
+
+.period-title {
+    color: #405169;
+    font-size: 36px;
+}
+
+.services i {
+    font-size: 24px;
+}
+
+.services h4 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #222222;
+}
+
+.services p {
+    color: #7F8A95;
+    font-size: 14px;
+}
+
+.plane {
+    width: 370px;
+    height: auto;
+}
+
+.request-title {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 44px;
+    color: #405169;
+}
+
+.request-description {
+    font-size: 16px;
+    line-height: 19px;
+    color: #001737;
+}
+
+.request-text {
+    resize: none;
+    width: 100%;
+    height: 200px;
+    padding: 15px;
+}
+
+.tariff {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 33px;
+    color: #222222;
+    margin-bottom: 20px;
+}
+
+.options h5 {
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: 500;
+    text-align: center;
+    color: #2C2C2C;
+    margin: 0;
+}
+
+.options p {
+    font-size: 50px;
+    line-height: 63px;
+    font-weight: 500;
+    text-align: center;
+    color: #2E3640;
+    margin: 0;
+}
+
+.options span {
+    display: block;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #2E3640;
+    margin-bottom: 30px;
+}
+
+.options ul {
+    list-style: none;
+}
+
+.options i {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.options li {
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+    vertical-align: center;
+}
+
+.try-free {
+    text-align: center;
+}
+
+.try-free button {
+    width: 240px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    border: 1px solid #77BCFE;
+    border-radius: 5%;
+    outline: none;
+    color: #222222;
+}
+
+.try-free button:hover {
+    background-color: #77BCFE;
+    color: #fff;
+}
+
+.footer h5 {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.footer p {
+    font-size: 16px;
+    line-height: 21px;
+    color: #222222;
+}
+
+.footer-2 h5 {
+    font-size: 16px;
+    line-height: 22px;
+    color: #7F8A95;
+}
+
+.footer-2 p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #222222;
+    margin: 0;
+}
+
+.footer-3 span, .footer-4 span {
+    font-size: 16px;
+    line-height: 21px;
+    color: #7F8A95;
+}
+
+.footer-4 {
+    text-align: right;
+}
+
+.free-btn {
+    font-size: 16px;
+}
+
+@media (max-width: 575.98px) {
+    .main-title {
+        font-size: 20px;
+    }
+
+    .link {
+        text-align: center;
+        color: #7F8A95;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+
+    .period {
+        font-size: 14px;
+    }
+
+    .period-title {
+        font-size: 16px;
+    }
+
+    .free-btn {
+        font-size: 12px;
+    }
+
+    .services {
+        margin-top: 10px;
+    }
+
+    .services h4 {
+        font-size: 14px;
+    }
+
+    .services p {
+        font-size: 12px;
+    }
+
+    .plane {
+        width: 150px;
+        margin-top: 50px;
+    }
+
+    .request-title {
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 20px;
+    }
+
+    .request-description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .tariff {
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 20px;
+        margin-bottom: 12px;
+    }
+
+    .optimal-btn {
+        font-size: 16px;
+    }
+
+    .options h5 {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 0;
+    }
+
+    .options p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .options span {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+
+    .options i {
+        margin-right: 5px;
+        margin-left: 10px;
+    }
+
+    .options li {
+        font-size: 12px;
+        line-height: 15px;
+        vertical-align: center;
+    }
+
+    .try-free button {
+        width: 75px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .try-free-btn {
+        margin-top: 15px;
+    }
+
+    .footer h5 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .footer p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .footer-2 h5 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .footer-2 p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .footer-3 span, .footer-4 span {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .main-title {
+        font-size: 20px;
+    }
+
+    .link {
+        text-align: center;
+        color: #7F8A95;
+        margin-right: 15px;
+        font-size: 14px;
+    }
+
+    .period {
+        font-size: 14px;
+    }
+
+    .period-title {
+        font-size: 16px;
+    }
+
+    .free-btn {
+        font-size: 12px;
+    }
+
+    .services {
+        margin-top: 10px;
+    }
+
+    .services h4 {
+        font-size: 14px;
+    }
+
+    .services p {
+        font-size: 12px;
+    }
+
+    .plane {
+        width: 150px;
+        margin-top: 50px;
+    }
+
+    .request-title {
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 20px;
+    }
+
+    .request-description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .tariff {
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 20px;
+        margin-bottom: 12px;
+    }
+
+    .optimal-btn {
+        font-size: 16px;
+    }
+
+    .options h5 {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 0;
+    }
+
+    .options p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .options span {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+
+    .options i {
+        margin-right: 5px;
+        margin-left: 10px;
+    }
+
+    .options li {
+        font-size: 12px;
+        line-height: 15px;
+        vertical-align: center;
+    }
+
+    .try-free button {
+        width: 120px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .try-free-btn {
+        margin-top: 15px;
+    }
+
+    .footer h5 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .footer p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .footer-2 h5 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .footer-2 p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .footer-3 span, .footer-4 span {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .link {
+        margin-left: 18px;
+    }
+
+    .period {
+        font-size: 14px;
+    }
+
+    .period-title {
+        font-size: 18px;
+    }
+
+    .free-btn {
+        font-size: 14px;
+    }
+
+    .services h4 {
+        font-size: 16px;
+    }
+
+    .services p {
+        font-size: 14px;
+    }
+
+    .plane {
+        width: 250px;
+    }
+
+    .request-title {
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 30px;
+    }
+
+    .request-description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .tariff {
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 23px;
+        margin-bottom: 12px;
+    }
+
+    .options h5 {
+        font-size: 18px;
+        line-height: 22px;
+        margin: 0;
+    }
+
+    .options p {
+        font-size: 28px;
+        line-height: 32px;
+        font-weight: 500;
+    }
+
+    .options span {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+
+    .options li {
+        font-size: 14px;
+        line-height: 18px;
+        vertical-align: center;
+    }
+
+    .try-free button {
+        width: 180px;
+        height: 38px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .try-free-btn {
+        margin-top: 54px;
+    }
+
+    .footer-3 span, .footer-4 span {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .period-title {
+        font-size: 24px;
+    }
+
+    .services p {
+        width: 70%;
+    }
+
+    .options li {
+        width: 85%;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .try-free-btn {
+        margin-top: 23px;
+    }
+
+    .footer-4 {
+        text-align: left;
+    }
+
+    .footer-3 span, .footer-4 span {
+        font-size: 14px;
+    }
+}
+

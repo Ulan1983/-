@@ -1,0 +1,183 @@
+.client-info {
+	width: 430px;
+	height: 897px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #fff;
+}
+.client-info-header a {
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 21px;
+	color: #000;
+	margin-left: 10px;
+	padding-top: 10px;
+	display: inline-block;
+}
+.bi-x {
+	float: right;
+	font-size: 24px;
+}
+.form {
+	padding: 10px;
+}
+.full-name {
+	width: 365px;
+	height: 40px;
+}
+.phone {
+	width: 106px;
+	height: 40px;
+}
+.phone-2 {
+	width: 254px;
+	height: 40px;
+	margin-left: 6px;
+}
+.flag {
+	width: 24px;
+	position: absolute;
+	top: 14%;
+	left: 30%;
+}
+.email {
+	width: 365px;
+	height: 40px;
+}
+.form-group span {
+	font-size: 13px;
+	line-height: 15px;
+	text-align: right;
+	color: #7F8A95;
+	display: inline-block;
+}
+.birthday {
+	width: 261px;
+	height: 40px;
+}
+.balance {
+	font-size: 13px;
+	line-height: 15px;
+	font-weight: 300;
+	color: #7F8A95;
+	margin-right: 5px;
+}
+.bi-patch-question {
+	color: #7F8A95;
+}
+.abonement h5 {
+	font-size: 14px;
+	line-height: 17px;
+	color: #000;
+}
+.qty p {
+	font-size: 13px;
+	line-height: 15px;
+	color: #222222;
+}
+.info span {
+	font-size: 13px;
+	line-height: 15px;
+	color: #7F8A95;
+	white-space: nowrap;
+}
+.info p {
+	font-size: 14px;
+	line-height: 16px;
+	color: #9D9D9D;
+	white-space: nowrap;
+	padding: 10px 25px 10px 20px;
+	background-color: #E8E8E8;
+	margin: 5px;
+}
+.info ul {
+	list-style: none;
+}
+.info li {
+	text-align: left;
+	font-size: 12px;
+	line-height: 14px;
+	color: #222;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.edit-btn {
+	background-color: #7F8A95;
+	border: none;
+	outline: none;
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	padding: 13px 30px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #fff;
+	margin-top: 32px;
+}
+
+@media (max-width: 575.98px) {
+	.client-info {
+		width: 360px;
+		height: 822px;
+	}
+	.full-name {
+		width: 290px;
+		height: 30px;
+	}
+	.phone {
+		width: 70px;
+		height: 30px;
+	}
+	.phone-2 {
+		width: 191px;
+		height: 30px;
+		margin-left: 6px;
+	}
+	.flag {
+		width: 18px;
+		position: absolute;
+		top: 10%;
+		left: 30%;
+	}
+	.email {
+		width: 290px;
+		height: 30px;
+	}
+	.form-group span {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.birthday {
+		width: 197px;
+		height: 30px;
+	}
+	.abonement h5 {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.qty p {
+		font-size: 11px;
+		line-height: 13px;
+	}
+	.info span {
+		font-size: 11px;
+		line-height: 12px;
+	}
+	.info p {
+		font-size: 12px;
+		line-height: 13px;
+		padding: 7px 20px 7px 5px;
+		margin: 13px;
+	}
+	.info li {
+		font-size: 10px;
+		line-height: 11px;
+		margin-bottom: 15px;
+	}
+	.edit-btn {
+		font-size: 14px;
+		line-height: 17px;
+		margin-top: 35px;
+		width: 90%;
+	}
+}
